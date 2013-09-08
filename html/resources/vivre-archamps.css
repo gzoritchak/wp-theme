@@ -1,0 +1,14 @@
+
+#logo {
+    background: url("LOGOvectorise_Vivre_archamps.gif") no-repeat scroll -27px 0 #ffffff;
+    display: block;
+    height: 404px;
+    padding-bottom: 3px;
+    text-indent: -5000px;
+    width: 100%;
+}
+
+
+.bandeau {
+    background-image: url("PhotoArchampsBANDEAU.jpg");
+}
